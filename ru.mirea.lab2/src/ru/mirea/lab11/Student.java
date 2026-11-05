@@ -37,8 +37,8 @@ public class Student {
 
     public static void main(String[] args) {
         Calendar cal = Calendar.getInstance();
-        cal.set(2006, Calendar.MARCH, 15);
-        Student s = new Student("Максим", "Смирнов", cal.getTime());
+        cal.set(2008, Calendar.JANUARY, 29);
+        Student s = new Student("Максим", "Попов", cal.getTime());
 
         System.out.println(s);
         System.out.println("Короткий формат: " + s.getBirthDate("short"));

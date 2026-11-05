@@ -1,6 +1,7 @@
 package ru.mirea.lab13;
 
-public class PhoneFormatter {
+public class
+PhoneFormatter {
     public static String format(String phone) {
         String countryCode;
         String number;

@@ -25,8 +25,8 @@ public class Person {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Person("Смирнов", "Максим", "Андреевич").getShortName());
-        System.out.println(new Person("Иванов", "Пётр", null).getShortName());
-        System.out.println(new Person("Петров", null, null).getShortName());
+        System.out.println(new Person("Попов", "Максим", "Андреевич").getShortName());
+        System.out.println(new Person("Усачева", "Анастасия", null).getShortName());
+        System.out.println(new Person("Эдмон", null, null).getShortName());
     }
 }

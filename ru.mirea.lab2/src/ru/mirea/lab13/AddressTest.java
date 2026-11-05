@@ -3,7 +3,7 @@ package ru.mirea.lab13;
 public class AddressTest {
     public static void main(String[] args) {
         String[] commaAddresses = {
-                "Россия, Московская область, Москва, Тверская, 10, 1, 25",
+                "Россия, Московская область, Одинцово, Северная, 10, 1, 25",
                 "Россия,Татарстан,Казань,Баумана,5,2,14"
         };
 
