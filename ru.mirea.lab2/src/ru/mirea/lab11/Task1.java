@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class Task1 {
     public static void main(String[] args) {
-        String developer = "Максим";
+        String developer = "Попов";
 
         SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
 
